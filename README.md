@@ -1,25 +1,20 @@
 
-# Hi, I’m Arrownymous! 👋
+Hi, I’m Arrownymous! 👋
+I’m an aspiring .NET Developer with a strong focus on C# and building scalable, high-performance applications. I’m also exploring Unity to expand my skills in game development and interactive applications. My goal is to master the .NET ecosystem and create powerful solutions for both web and desktop applications.
 
-I’m an aspiring **Cloud Specialist** and **DevOps enthusiast** with a strong foundation in **cloud technologies** like **MS365** and **Azure**. I’m passionate about building scalable solutions and automating processes to optimize workflows.
+🌱 Currently Learning:
+.NET development with a focus on C# and ASP.NET Core.
 
-## 🌱 Currently Learning:
-- **SaaS**, **DevOps pipelines**, and **Infrastructure as Code**.
-- Working with **CI/CD**, **containerization**, and **cloud-native applications**.
-  
-## 💻 My Projects:
-- Working on projects that focus on **AI-driven solutions** and **cloud optimization**.
-- Exploring tools like **Terraform**, **Kubernetes**, and **Docker**.
+Exploring Unity for game development and C# in the context of interactive experiences.
 
-## 🔍 Let’s Connect:
-- Always looking to learn, collaborate, and contribute to open-source projects. Feel free to check out my repositories!
+Diving into object-oriented programming (OOP) principles and design patterns.
 
----
+💻 My Projects:
+Working on .NET-based applications focusing on API development, database integration, and web technologies.
 
-> I'm excited to keep growing in the cloud and DevOps space, and I’m open to learning from and collaborating!
+Experimenting with Unity for creating small game prototypes and interactive projects.
 
-  
-<!---
-Arrownymous/Arrownymous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 Let’s Connect:
+Always eager to learn, collaborate, and contribute to open-source projects. Feel free to check out my repositories!
+
+I’m excited to keep growing as a .NET Developer while also exploring Unity to broaden my skill set in both software development and game development!
